@@ -1,0 +1,18 @@
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\bin\Debug\2zadanie.exe.config
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\bin\Debug\2zadanie.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\bin\Debug\2zadanie.pdb
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\2zadanie.csprojAssemblyReference.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\_2zadanie.Form1.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\_2zadanie.Properties.Resources.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\2zadanie.csproj.GenerateResource.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\2zadanie.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt 2 zadanie\2zadanie\2zadanie\obj\Debug\2zadanie.pdb
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\bin\Debug\2zadanie.exe.config
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\bin\Debug\2zadanie.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\bin\Debug\2zadanie.pdb
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\2zadanie.csprojAssemblyReference.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\_2zadanie.Form1.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\_2zadanie.Properties.Resources.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\2zadanie.csproj.GenerateResource.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\2zadanie.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 prakt\1zadanie\2zadanie\obj\Debug\2zadanie.pdb

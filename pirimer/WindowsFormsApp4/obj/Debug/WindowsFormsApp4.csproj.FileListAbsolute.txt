@@ -1,0 +1,18 @@
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\ИС1-21(2021)\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\ИС1-21(2021)\мдк 06.02. 3 ПАРА C#\7 практ. пример\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
